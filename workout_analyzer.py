@@ -133,5 +133,5 @@ def analyze_workout_video(video_path):
     cv2.destroyAllWindows()
 
 if __name__ == '__main__':
-    video_path = 'video.mp4'
+    video_path = 'video.mov'
     analyze_workout_video(video_path)
