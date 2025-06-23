@@ -1,0 +1,397 @@
+{
+    "hint": "保持肩膀下沉，避免將手舉到遠超過肩膀的高度。",
+    "title": "側平舉",
+    "version": "1.0.5",
+    "bgm_type": "EXERCISE_WORKOUT",
+    "required": false,
+    "description": "側平舉是訓練三角肌中束的經典動作，能有效增加肩膀寬度，打造更寬闊、圓潤的肩膀線條。這個動作的關鍵在於使用輕量，並專注於控制和感受肌肉收縮，避免聳肩或利用慣性。",
+    "introduction": {
+        "context": "側平舉是訓練三角肌中束的經典動作，能有效增加肩膀寬度，打造更寬闊、圓潤的肩膀線條。這個動作的關鍵在於使用輕量，並專注於控制和感受肌肉收縮，避免聳肩或利用慣性。"
+    },
+    "banner_color_code": "\"#EA0000FF\"",
+    "angle_configs": [
+        {
+            "statusList": [
+                {
+                    "JustUnits": [
+                        {
+                            "angleMax": 190,
+                            "angleMin": 170,
+                            "BodyPartIndex": 0
+                        },
+                        {
+                            "angleMax": 190,
+                            "angleMin": 170,
+                            "BodyPartIndex": 1
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 11
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 12
+                        },
+                        {
+                            "angleMax": 105,
+                            "angleMin": 85,
+                            "BodyPartIndex": 27
+                        },
+                        {
+                            "angleMax": 105,
+                            "angleMin": 85,
+                            "BodyPartIndex": 28
+                        },
+                        {
+                            "angleMax": 180,
+                            "angleMin": 150,
+                            "BodyPartIndex": 13
+                        },
+                        {
+                            "angleMax": 180,
+                            "angleMin": 150,
+                            "BodyPartIndex": 14
+                        },
+                        {
+                            "angleMax": 170,
+                            "angleMin": 140,
+                            "BodyPartIndex": 23
+                        },
+                        {
+                            "angleMax": 170,
+                            "angleMin": 140,
+                            "BodyPartIndex": 24
+                        }
+                    ],
+                    "statusName": "lateral_Raise"
+                },
+                {
+                    "JustUnits": [
+                        {
+                            "angleMax": 110,
+                            "angleMin": 90,
+                            "BodyPartIndex": 0
+                        },
+                        {
+                            "angleMax": 110,
+                            "angleMin": 90,
+                            "BodyPartIndex": 1
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 11
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 12
+                        },
+                        {
+                            "angleMax": 25,
+                            "angleMin": 0,
+                            "BodyPartIndex": 27
+                        },
+                        {
+                            "angleMax": 25,
+                            "angleMin": 0,
+                            "BodyPartIndex": 28
+                        },
+                        {
+                            "angleMax": 180,
+                            "angleMin": 150,
+                            "BodyPartIndex": 13
+                        },
+                        {
+                            "angleMax": 180,
+                            "angleMin": 150,
+                            "BodyPartIndex": 14
+                        },
+                        {
+                            "angleMax": 170,
+                            "angleMin": 140,
+                            "BodyPartIndex": 23
+                        },
+                        {
+                            "angleMax": 170,
+                            "angleMin": 140,
+                            "BodyPartIndex": 24
+                        }
+                    ],
+                    "statusName": "lateral_Drop"
+                }
+            ],
+            "exerciseName": "lateralRaise-1_strong",
+            "combineLetter": "@",
+            "focusPosOnlyList": [
+                15,
+                16,
+                27,
+                28
+            ],
+            "focusLinesIndexList": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "countMatchStringList": [
+                "lateral_Raise@lateral_Drop"
+            ],
+            "expectStatusChangeProcess": [
+                "lateral_Raise",
+                "lateral_Drop"
+            ]
+        },
+        {
+            "statusList": [
+                {
+                    "JustUnits": [
+                        {
+                            "angleMax": 180,
+                            "angleMin": 160,
+                            "BodyPartIndex": 0
+                        },
+                        {
+                            "angleMax": 180,
+                            "angleMin": 160,
+                            "BodyPartIndex": 1
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 11
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 12
+                        },
+                        {
+                            "angleMax": 110,
+                            "angleMin": 80,
+                            "BodyPartIndex": 27
+                        },
+                        {
+                            "angleMax": 110,
+                            "angleMin": 80,
+                            "BodyPartIndex": 28
+                        }
+                    ],
+                    "statusName": "lateral_Raise"
+                },
+                {
+                    "JustUnits": [
+                        {
+                            "angleMax": 120,
+                            "angleMin": 90,
+                            "BodyPartIndex": 0
+                        },
+                        {
+                            "angleMax": 120,
+                            "angleMin": 90,
+                            "BodyPartIndex": 1
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 11
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 12
+                        },
+                        {
+                            "angleMax": 40,
+                            "angleMin": 0,
+                            "BodyPartIndex": 27
+                        },
+                        {
+                            "angleMax": 40,
+                            "angleMin": 0,
+                            "BodyPartIndex": 28
+                        }
+                    ],
+                    "statusName": "lateral_Drop"
+                }
+            ],
+            "exerciseName": "lateralRaise-1_normal",
+            "combineLetter": "@",
+            "focusPosOnlyList": [
+                15,
+                16,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28
+            ],
+            "focusLinesIndexList": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "countMatchStringList": [
+                "lateral_Raise@lateral_Drop"
+            ],
+            "expectStatusChangeProcess": [
+                "lateral_Raise",
+                "lateral_Drop"
+            ]
+        },
+        {
+            "statusList": [
+                {
+                    "JustUnits": [
+                        {
+                            "angleMax": 190,
+                            "angleMin": 170,
+                            "BodyPartIndex": 0
+                        },
+                        {
+                            "angleMax": 190,
+                            "angleMin": 170,
+                            "BodyPartIndex": 1
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 11
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 12
+                        },
+                        {
+                            "angleMax": 105,
+                            "angleMin": 85,
+                            "BodyPartIndex": 27
+                        },
+                        {
+                            "angleMax": 105,
+                            "angleMin": 85,
+                            "BodyPartIndex": 28
+                        },
+                        {
+                            "angleMax": 180,
+                            "angleMin": 150,
+                            "BodyPartIndex": 13
+                        },
+                        {
+                            "angleMax": 180,
+                            "angleMin": 150,
+                            "BodyPartIndex": 14
+                        },
+                        {
+                            "angleMax": 170,
+                            "angleMin": 140,
+                            "BodyPartIndex": 23
+                        },
+                        {
+                            "angleMax": 170,
+                            "angleMin": 140,
+                            "BodyPartIndex": 24
+                        }
+                    ],
+                    "statusName": "lateral_Raise"
+                },
+                {
+                    "JustUnits": [
+                        {
+                            "angleMax": 110,
+                            "angleMin": 90,
+                            "BodyPartIndex": 0
+                        },
+                        {
+                            "angleMax": 110,
+                            "angleMin": 90,
+                            "BodyPartIndex": 1
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 11
+                        },
+                        {
+                            "angleMax": 160,
+                            "angleMin": 140,
+                            "BodyPartIndex": 12
+                        },
+                        {
+                            "angleMax": 25,
+                            "angleMin": 0,
+                            "BodyPartIndex": 27
+                        },
+                        {
+                            "angleMax": 25,
+                            "angleMin": 0,
+                            "BodyPartIndex": 28
+                        },
+                        {
+                            "angleMax": 180,
+                            "angleMin": 150,
+                            "BodyPartIndex": 13
+                        },
+                        {
+                            "angleMax": 180,
+                            "angleMin": 150,
+                            "BodyPartIndex": 14
+                        },
+                        {
+                            "angleMax": 170,
+                            "angleMin": 140,
+                            "BodyPartIndex": 23
+                        },
+                        {
+                            "angleMax": 170,
+                            "angleMin": 140,
+                            "BodyPartIndex": 24
+                        }
+                    ],
+                    "statusName": "lateral_Drop"
+                }
+            ],
+            "exerciseName": "lateralRaise-1_weak",
+            "combineLetter": "@",
+            "focusPosOnlyList": [
+                15,
+                16,
+                27,
+                28
+            ],
+            "focusLinesIndexList": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "countMatchStringList": [
+                "lateral_Raise@lateral_Drop"
+            ],
+            "expectStatusChangeProcess": [
+                "lateral_Raise",
+                "lateral_Drop"
+            ]
+        }
+    ]
+}
