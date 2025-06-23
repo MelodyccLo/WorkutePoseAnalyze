@@ -4,7 +4,7 @@ import ast # 用於安全地評估字串，將其轉換為 Python 資料結構
 import os  # 用於處理檔案路徑
 
 # 檔案路徑 - 請將此替換為您的實際 .xlsx 檔案路徑
-excel_file = "/Users/melodylo/Desktop/Computer/WorkutePoseAnalyze/test.xlsx"
+excel_file = "/Users/melodylo/Desktop/Computer/WorkutePoseAnalyze/Excel to Json/test.xlsx"
 
 def convert_excel_sheets_to_json(excel_file_path: str) -> dict:
     """
